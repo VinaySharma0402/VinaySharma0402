@@ -1,45 +1,51 @@
-# 👋 Hi, I'm Vishwasjeet Kumar Gupta!
+# 👋 Hi, I'm Ram Vinay Kumar!
 
 I'm a *BTech CSE* student at *Jai Narain College of Technology, Bhopal, passionate about **AI, **Cybersecurity, **Web Development, and **Problem Solving*.
 
 ## 🔧 Skills
 - *Languages:* Java, Python, C++, JavaScript
-- *Frameworks & Libraries:* React.js, Spring Boot, TensorFlow, Scikit-learn
-- *Technologies:* Node.js, Express.js, MongoDB, SQL, JWT, bcrypt.js
-- *Tools:* Git, Docker, Maven, Android Studio, VS Code, Linux
+- *Frameworks & Libraries:* React.js, Spring Boot, Bootstrap, TalwinCSS, REST APIs 
+- *Technologies:* Node.js, Express.js, SQL, HTML, CSS
+- *Database:*  MongoDB, MySql,
+- *Tools:* Git, GitHub, Docker, VS Code, Linux
 - *CS Fundamentals:* Data Structures & Algorithms, Object-Oriented Programming, SDLC, Networking
 
 ## 🛠 Projects
-- *[Chronomail AI](https://github.com/vishwas7782/ChronoMailAI)*: ChronoMailAI is your intelligent AI email assistant designed to write, summarize, and auto-respond to emails with just one click. Built with Gemini AI, it integrates React.js frontend, Spring Boot backend, and a Chrome Extension for seamless browser integration.
-- *[Finnovate AI](https://github.com/vishwas7782/finnovate-ai)*: An AI-powered financial advisor with real-time transaction monitoring and goal-based financial planning.
-- *[Urban Waste Control System](https://github.com/vishwas7782/urban-waste-control-system)*: A smart waste management system that allows residents to report garbage, track collection schedules, and communicate directly with municipal employees.
-- *[Banking System](https://github.com/vishwas7782/banking-system)*: Simulated a banking system with basic operations like deposits, withdrawals, and account management.
-
+- *[Urban Waste Control System](https://github.com/VinaySharma0402/uwcs)*: Urban Waste Control System is an innovative waste management application designed to streamline the 
+  reporting and handling of urban garbage issues. Residents can easily report uncollected or excess garbage 
+  by providing descriptions and uploading photos. Municipal employees can monitor these reports in real
+  time, update collection schedules, and respond promptly to public concerns—ensuring a cleaner, more 
+  organized urban environment. 
+- *[Banking System](https://github.com/VinaySharma0402/Banking-System)*: Contributed to the development of a Banking System that simulates core banking operations, enabling 
+  users to open accounts, deposit and withdraw funds, check balances, manage and delete accounts, and 
+  oversee employee management.
+  
 ## 🚀 Achievements
-- *TCS CodeVita Season 12* – Global Rank 598 (Out of 537k+ participants)  
-- *4th Position in Technovate for India Ideathon* – Presented an innovative digital skills enhancement idea for Madhya Pradesh.
-- *Winner at Project Expo 2024 & 2023* – Recognized for developing the *Urban Waste Control System* and *Banking System*.
-- *Top 5% in NPTEL Cyber Security and Privacy* (IIT Madras)  
-- *Top 5% in NPTEL Java Programming* (IIT KGP)  
+- *Winner at Project Expo 2024* – Recognized for developing the *Urban Waste Control System*.
+- *Winner at Project Expo 2023* – Recognized for developing the *Banking System*.
+- *NPTEL Data Structure And Algorithms using Java * (IIT Kharagpur)  
+- *Infosys|Springboard-Java Programming Fundamental*
+- *Infosys|Springboard-C++Programming Beginners*
+- *Infosys|Springboard-Database Manegement System part-1*  
 - *Google Android Developer Virtual Internship*  
-- *Fortinet Networks Security Virtual Internship*  
-- *CISCO Networking Academy - Cybersecurity Internship*
+- *CyberSecurity Virtual Internship*  
+- *AI-ML Virtual Internship*
 
 ## 📚 Currently Learning
 - *Spring Boot* – Developing backend services for scalable applications.
 - *Data Structures & Algorithms* – Preparing for campus placements and competitive coding.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ram-vinay-kumar-2b67302b0/)  
 
-[![Email](https://img.shields.io/badge/Email-vishwas7782@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vishwas7782@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vinaysharma23314@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vinaysharma23314@gmail.com)
 
 ---
 
 ### 💻 GitHub Stats
-![Vishwasjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwas7782&show_icons=true&hide_title=true)
+![Ram Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinaySharma0402&show_icons=true&hide_title=true)
 
 ---
 
 ### 🌱 Contribution Graph
-![GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas7782&theme=blue_green)
+![GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinaySharma0402&theme=blue_green)
