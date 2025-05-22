@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ram Vinay Kumar!
 
-I'm a *BTech CSE* student at *Jai Narain College of Technology, Bhopal, passionate about **AI, **Cybersecurity, **Web Development, and **Problem Solving*.
+I'm a BTech CSE student at Jai Narain College of Technology, Bhopal, passionate about AI, Cybersecurity, Web Development, and Problem Solving.
 
 ## 🔧 Skills
 - *Languages:* Java, Python, C++, JavaScript
@@ -11,6 +11,8 @@ I'm a *BTech CSE* student at *Jai Narain College of Technology, Bhopal, passiona
 - *CS Fundamentals:* Data Structures & Algorithms, Object-Oriented Programming, SDLC, Networking
 
 ## 🛠 Projects
+- *[Healthovate AI](https://github.com/VinaySharma0402/HealthovateAI):Healthovate AI is a smart healthcare web platform that uses Artificial Intelligence to assist users with everyday health needs — from symptom 
+   checking and medicine reminders to BMI calculation and hospital location — all in one place. It simplifies your health journey through personalized tools and real-time assistance.
 - *[Urban Waste Control System](https://github.com/VinaySharma0402/uwcs)*: Urban Waste Control System is an innovative waste management application designed to streamline the 
   reporting and handling of urban garbage issues. Residents can easily report uncollected or excess garbage 
   by providing descriptions and uploading photos. Municipal employees can monitor these reports in real
